@@ -553,7 +553,7 @@ body::-webkit-scrollbar {
     justify-content: center;
     align-items: center;
     margin-left: 20%;
-    background-color: hotpink;
+    background-color: skyblue;
 }
 
 .joinbox h1 {
@@ -861,7 +861,8 @@ th {
 }
 
 .pastleaders table thead {
-    background-color: #ffcc00;
+    background-color: black;
+    color: white;
 }
 
 .pastleaders table td {

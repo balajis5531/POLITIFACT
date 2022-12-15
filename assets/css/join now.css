@@ -124,15 +124,16 @@ body::-webkit-scrollbar {
     min-width: 120px;
     z-index: 1;
     margin: 10px;
-    background-color: lightgray;
+    background-color: #ededed;
     border-radius: 9px;
     background-position: center;
 }
 
-.dropdown-content a {
+.dropdown .dropdown-content a {
     color: black;
     padding: 12px 2px;
     text-decoration: none;
+    font-size: 14px;
     display: block;
 }
 
