@@ -587,7 +587,7 @@ body::-webkit-scrollbar {
     box-shadow: -1px 9px 14px 7px rgba(26, 22, 26, 0.53);
     width: 90%;
     margin-left: 5%;
-    background-color: #f2f3f4;
+    /* background-color: #f2f3f4; */
 
 
 }
